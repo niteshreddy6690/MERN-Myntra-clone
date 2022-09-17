@@ -26,7 +26,7 @@ const Banner = () => {
               ₹200 OFF
             </div>
             <div ClassName=" FreeShippingBanner-header FreeShippingBanner-header-secondary">
-              + FREE SHIPPING
+              + sdFREE SHIPPING
             </div>
           </div>
           <div class="FreeShippingBanner-image">
